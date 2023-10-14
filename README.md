@@ -13,4 +13,8 @@ Right corner press Get from VCS
 
 ![Git](https://github.com/victorstef21/AbstractingJava/assets/122342928/bb618094-8816-480b-933c-2c006b9dbb44)
 
+Open Github - Repositorie
 
+Press green button Code and Copy LInk
+
+![Copy link from Repositories](https://github.com/victorstef21/AbstractingJava/assets/122342928/cabe8684-823a-490e-a654-2a199f832b2e)
