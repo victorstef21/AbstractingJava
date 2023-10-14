@@ -18,3 +18,9 @@ Open Github - Repositorie
 Press green button Code and Copy LInk
 
 ![Copy link from Repositories](https://github.com/victorstef21/AbstractingJava/assets/122342928/cabe8684-823a-490e-a654-2a199f832b2e)
+
+Go back to Intellij 
+
+![Git](https://github.com/victorstef21/AbstractingJava/assets/122342928/24a2af42-6a19-4ed9-b5f2-1e24234c5d7c)
+
+Paste the link 
